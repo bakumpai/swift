@@ -104,7 +104,7 @@ _You can enable the following settings in Xcode by running [this script](resourc
 
 ## Naming
 
-* <a id='use-camel-case'></a>(<a href='#use-camel-case'>link</a>) **Use PascalCase for type and protocol names, and lowerCamelCase for everything else.**
+* <a id='use-camel-case'></a>(<a href='#use-camel-case'>link</a>) **Use PascalCase for type and protocol names, and camelCase for everything else.**
 
   <details>
 
